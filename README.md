@@ -26,7 +26,7 @@
 
 ### Frameworks & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=spring,react,git,github,vscode,eclipse,maven" />
+<img src="https://skillicons.dev/icons?i=spring,git,github,vscode,eclipse,maven" />
 </p>
 
 ---
