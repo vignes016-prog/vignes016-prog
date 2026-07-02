@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | React</h3>
+<h3 align="center">Java Full Stack Developer </h3>
+<h4 align="center">Hibernate | SpringBoot |PostgreSql</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Developer;React+Learner;Always+Learning...&center=true&width=500&height=45">
