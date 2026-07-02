@@ -3,7 +3,7 @@
 <h4 align="center">Hibernate | SpringBoot |PostgreSql</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Developer;React+Learner;Always+Learning...&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Spring+Boot+Developer;Web+Developer;Always+Learning...&center=true&width=500&height=45">
 </p>
 
 ---
