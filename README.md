@@ -24,7 +24,7 @@
 - 💻 Java Full Stack Developer
 - 🎯 Goal: Software Engineer
 - 📍 India
-- 📫 Email: vignes016gmail.com
+- 📫 Email:vignes016gmail.com
 
 ---
 
@@ -42,7 +42,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignes016-prog&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/vignesh-a-5137a4396">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
