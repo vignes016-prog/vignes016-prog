@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Vignesh!&fontSize=45&fontColor=fff&animation=fadeIn"/>
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | React</h3>
 
