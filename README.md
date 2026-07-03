@@ -3,7 +3,7 @@
 <h3 align="center">💻 Java Full Stack Developer | Spring Boot </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Full+Stack+Developer;Spring+Boot+Developer;Always+Learning+%+Explore+New+Things!" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-- 🌱 Currently Learning **SpringBoot**
+- 🌱 Currently Learning **SpringBoot & Bootstrap**
 - 💻 Java Full Stack Developer
 - 🎯 Goal: Software Engineer
 - 📍 India
