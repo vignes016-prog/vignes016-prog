@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-- 🌱 Currently Learning **Spring Boot & Botstrap**
+- 🌱 Currently Learning **Spring Boot & Bootstrap**
 - 💻 Java Full Stack Developer
 - 🎯 Goal: Software Engineer
 - 📍 India
